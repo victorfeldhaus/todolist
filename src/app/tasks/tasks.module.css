@@ -1,0 +1,12 @@
+
+.page {
+    display: grid;
+    place-items: center;
+    gap: 24px;
+    padding: 32px;
+    padding-bottom: 80px;
+}
+
+.todos {
+    margin-top: 100px;
+}
